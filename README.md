@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in 
 
-All sortS really, anything tech related from hardware to software. I've been at univeristy for 2 years now part time and learnt a lot through study work whilst
+All sorts really, anything tech related from hardware to software. I've been at univeristy for 2 years now part time and learnt a lot through study work whilst
 also working full time. Currently i'm playing around with HTML and JavaScript whilst following The Odin Project which is also teaching me about uploading to 
 GitHub using git through a Linux VM.
 
