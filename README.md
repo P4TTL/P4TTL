@@ -8,8 +8,7 @@ GitHub using git through a Linux VM.
 
 - 🌱 I’m currently learning
 
-Git, GitHub, JavaScript, Linux and HTML
-Also plan to learn more Python but time seems to fly by even during lockdowns.
+Git, GitHub, JavaScript, Linux, Python and HTML  
 
 - 💞️ I’m looking to collaborate on
 
